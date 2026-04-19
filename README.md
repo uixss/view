@@ -1,1 +1,1 @@
-![Captura de pantalla](s.png)
+![Captura de pantalla](main.png)
