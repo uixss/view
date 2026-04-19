@@ -1,1 +1,1 @@
-# view
+![Captura de pantalla](s.png)
